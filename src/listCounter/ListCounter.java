@@ -12,7 +12,7 @@ import java.io.InputStreamReader;
  * then displays the sum of all elements of the list.
  * @author Thiago Prado
  */
-public class listCounter {	
+public class ListCounter {	
 	/**
 	 * In the main method we are going to declare a new BufferedReader and 
 	 * instance it, and an integer where the user input will be parsed. This
