@@ -13,7 +13,7 @@ import java.util.List;
  *
  */
 
-public class ListAlternate {
+public class ListAlternate{
 
 	// function initializes a demo list by splitting a string of characters
 	// separated by "-"

@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
  * must be run on eclipse or console window
  *
  */
-public class RecursiveDemo {
+public class RecursiveDemo{
 	
 	//the "hello world" of recursive function with some system output to display numbers
 	private static long factorial(int n) {
