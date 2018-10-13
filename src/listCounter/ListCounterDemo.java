@@ -3,7 +3,6 @@
  */
 package listCounter;
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 
 
@@ -12,7 +11,7 @@ import java.io.InputStreamReader;
  * then displays the sum of all elements of the list.
  * @author Thiago Prado
  */
-public class ListCounter {	
+public class ListCounterDemo {	
 	/**
 	 * In the main method we are going to declare a new BufferedReader and 
 	 * instance it, and an integer where the user input will be parsed. This

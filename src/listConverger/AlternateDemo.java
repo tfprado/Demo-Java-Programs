@@ -1,6 +1,5 @@
 package listConverger;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -13,7 +12,7 @@ import java.util.List;
  *
  */
 
-public class ListAlternate{
+public class AlternateDemo{
 
 	// function initializes a demo list by splitting a string of characters
 	// separated by "-"
